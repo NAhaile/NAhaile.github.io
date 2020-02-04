@@ -1,3 +1,3 @@
 # NAhaile.github.io
 
-This is where the code to my personal webbsite will be held
+This is where the code to my personal web site will be held.
